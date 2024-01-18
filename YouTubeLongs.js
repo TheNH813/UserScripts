@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        YouTube Longs
-// @description	Gets rid of the useless neverending loop of shorts. (C) TheNH813 2022. License WTFPLV2
+// @description	Gets rid of the useless neverending loop of shorts. (C) TheNH813 2022. License WTFPLV2 or Unlicense.
 // @version		1.0
 // @match       *://*.youtube.com/shorts/*
 // @run-at      document-start
